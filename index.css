@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+/* a[target="_top"]{
+    background-color: yellow;
+}
+
+a{
+    background-color: white;
+} */
+
+.class1 .class2{
+    background-color: yellow;
+    color: black;
+}
+
+.class1.class2{
+    color: brown;
+    background-color: pink;
+}
