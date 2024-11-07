@@ -1,5 +1,5 @@
 body{
-    background-color: purple    ;
+    background-color: black    ;
     color: white;
 }
 
@@ -20,7 +20,93 @@ a{
     color: brown;
     background-color: pink;
 } */
-
+/* 
 div {
     background-color: black;
+} */
+
+/* .hello.byy{
+    background-color: green;
+} */
+
+/* .light{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 10px;
 }
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+} */
+
+/* [class*="foo"]{
+    background-color: red;
+    color: blue;
+} */
+
+/* [class~="color-red"]{
+    background-color: blue;
+} */
+
+/* [class^="foo"]{
+    background-color: red;
+    color: blue;
+} */
+
+/* div span{
+    color: brown;
+}
+
+div > span {
+    color: blue;
+}
+
+a ~ span {
+    color: orange;
+}
+
+a + span {
+    color: violet;
+} */
+
+
+
+/* p + p {
+    color: red;
+} */
+
+/* p ~ p{
+    color: blue;
+} */
+
+/* .warning{
+    color: red;
+}
+
+.imp {
+    color: blue;
+}
+
+.imp.warning{
+    color: yellow;
+} */
+
+/* p :last-of-type{
+    color: aqua ;
+}
+
+h1 :last-of-type{
+    background-color: aqua;
+} */
+
+/* input :in-range{
+    border: 2px solid green;
+} */
